@@ -1,0 +1,14 @@
+layout_spectrum: 0.1610516458749771
+typography_spectrum: 0.6917968371417373
+color:
+  brandStrength: 0.9768838644959033
+  lightness: 0.389623430557549
+  saturation: 0.07985236519016325
+  rhythmicContrast: 0.7890510521829128
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Airliners
